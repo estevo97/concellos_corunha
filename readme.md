@@ -1,4 +1,4 @@
-# Problemas á hora de descargar
+# Parseo de robots.txt
 
 Ao comprobar se Wikipedia permitía descargar a páxina dos municipios da Coruña mediante `RobotFileParser`, obtíñase inicialmente o resultado `False`.
 
